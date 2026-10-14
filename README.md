@@ -1,5 +1,3 @@
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Samiul%20Alam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=58" alt="header"/>
 
 <div align="center">
 
